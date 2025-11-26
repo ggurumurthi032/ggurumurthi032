@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggurumurthi032&show_icons=true&locale=en&layout=compact" alt="ggurumurthi032" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggurumurthi032&show_icons=true&locale=en" alt="ggurumurthi032" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggurumurthi032&show_icons=true&locale=en" alt="i am kannadiga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggurumurthi032&" alt="ggurumurthi032" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=@gurumurthi_xkid&" alt="ggurumurthi032" /></p>
 
