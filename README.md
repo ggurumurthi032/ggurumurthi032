@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggurumurthi032&label=Profile%20views&color=0e75b6&style=flat" alt="ggurumurthi032" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python java **
 
 - 📫 How to reach me **ggurumurthi032@gmail.com**
 
-- ⚡ Fun fact **i am fuuny ❤️**
+- ⚡ Fun fact **i am so fuuny ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
