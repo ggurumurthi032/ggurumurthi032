@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurumurthi R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"</h3>full stack developer and javascript in india </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggurumurthi032&label=Profile%20views&color=0e75b6&style=flat" alt="ggurumurthi032" /> </p>
 
