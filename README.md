@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gurumurthi R</h1>
 <h3 align="center"</h3>full stack developer and javascript in india </h3>
 
-<p align="left">  alt="ggurumurthi032" /> </p>
+
 
 - 🌱 I’m currently learning **Python java **
 
