@@ -1,8 +1,8 @@
-(![MasterHead](https://waseefakhtar.medium.com/the-androiddevchallenge-has-returned-and-heres-how-to-win-it-db74e428a4d4)](http://ggurumurthi032)
+
 <h1 align="center">Hi 👋, I'm Gurumurthi R</h1>
 <h3 align="center"</h3>full stack developer and javascript in india </h3>
 
-<p align="left"> <img src="https://waseefakhtar.medium.com/the-androiddevchallenge-has-returned-and-heres-how-to-win-it-db74e428a4d4" alt="ggurumurthi032" /> </p>
+<p align="left">  alt="ggurumurthi032" /> </p>
 
 - 🌱 I’m currently learning **Python java **
 
