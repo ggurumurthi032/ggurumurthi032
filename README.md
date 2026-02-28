@@ -1,8 +1,8 @@
-https://waseefakhtar.medium.com/the-androiddevchallenge-has-returned-and-heres-how-to-win-it-db74e428a4d4
+
 <h1 align="center">Hi 👋, I'm Gurumurthi R</h1>
 <h3 align="center"</h3>full stack developer and javascript in india </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggurumurthi032&label=Profile%20views&color=0e75b6&style=flat" alt="ggurumurthi032" /> </p>
+<p align="left"> <img src="https://waseefakhtar.medium.com/the-androiddevchallenge-has-returned-and-heres-how-to-win-it-db74e428a4d4" alt="ggurumurthi032" /> </p>
 
 - 🌱 I’m currently learning **Python java **
 
