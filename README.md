@@ -6,6 +6,7 @@
   </p>
 </div>
 ---
+
 🏛️ Engineering Architecture
 > High-performance developer focused on building secure, scalable web ecosystems. By combining \*\*Full Stack Development\*\* with \*\*Cybersecurity\*\* (Cisco) and \*\*Data Analytics\*\* (Deloitte), I deliver solutions that are not only functional but resilient and data-driven.
 ---
