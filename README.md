@@ -32,7 +32,6 @@ Cisco Cybersecurity: Specialist in Network Attacks, Malware, and Defense Strateg
 </p>
 ---
 
-
 📬 Encryption & Contact
 <p align="center">
   📧<b>Email:</b><a
