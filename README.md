@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect\&color=0ff416c\&height=200\&section=header\&text=gurumurthi%20M\&fontSize=80\&fontColor=FCE38A\&desc=FULL%20STACK%20DEVELOPER%20%2\&descSize=30\&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect\&color=0ff416c\&height=200\&section=header\&text=guru%20M\&fontSize=80\&fontColor=FCE38A\&desc=FULL%20STACK%20DEVELOPER%20%2\&descSize=30\&descAlignY=70" />
 <p align="center">
     <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
     <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-success?style=flat-square" />
@@ -7,9 +7,12 @@
 </div>
 ---
 
+
 🏛️ Engineering Architecture
-> High-performance developer focused on building secure, scalable web ecosystems. By combining \*\*Full Stack Development\*\* with \*\*Cybersecurity\*\* (Cisco) and \*\*Data Analytics\*\* (Deloitte), I deliver solutions that are not only functional but resilient and data-driven.
+> High-performance developer focused on building secure, scalable web ecosystems. By combining \*\*Full Stack Development\*\* with \*\*Cybersecurity\*\* (Cisco) 
 ---
+
+
 🛠️ Technical Stack (Grid View)
 Category	Technologies & Tools
 Logic & Backend	`Python (Intermediate)` `Flask` `Django` `C` `C++` `Java`
@@ -18,6 +21,8 @@ Web Infrastructure	`JavaScript (DOM)` `HTML5` `CSS3` `Responsive Design`
 Security & Ops	`Malware Analysis` `Linux` `Git`
 Core Foundations	`OOPs` `OS` `DBMS` `Computer Networks`
 ---
+
+
 🏆 Professional Credentials & Validations
 Cisco Cybersecurity: Specialist in Network Attacks, Malware, and Defense Strategies.
 📊 System Analytics
