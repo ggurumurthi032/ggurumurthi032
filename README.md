@@ -1,28 +1,37 @@
-
-<h1 align="center">Hi 👋, I'm Gurumurthi R</h1>
-<h3 align="center"</h3>full stack developer and javascript in india </h3>
-
-
-
-- 🌱 I’m currently learning **Python java **
-
-- 📫 How to reach me **ggurumurthi032@gmail.com**
-
-- ⚡ Fun fact **i am so fuuny ❤️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/______gxru__.nxik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/______gxru__.nxik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@gurumurthigurumurthi9829" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@gurumurthigurumurthi9829" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect\&color=0ff416c\&height=200\&section=header\&text=gurumurthi%20M\&fontSize=80\&fontColor=FCE38A\&desc=FULL%20STACK%20DEVELOPER%20%2\&descSize=30\&descAlignY=70" />
+<p align="center">
+    <img src="https://img.shields.io/badge/LOCATION-SHIVAMOGGA%2C%20IN-white?style=flat-square" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-success?style=flat-square" />
+  </p>
+</div>
+---
+🏛️ Engineering Architecture
+> High-performance developer focused on building secure, scalable web ecosystems. By combining \*\*Full Stack Development\*\* with \*\*Cybersecurity\*\* (Cisco) and \*\*Data Analytics\*\* (Deloitte), I deliver solutions that are not only functional but resilient and data-driven.
+---
+🛠️ Technical Stack (Grid View)
+Category	Technologies & Tools
+Logic & Backend	`Python (Intermediate)` `Flask` `Django` `C` `C++` `Java`
+Data Engineering	`MySQL` `Data Mining` `Preprocessing` `Visualization`
+Web Infrastructure	`JavaScript (DOM)` `HTML5` `CSS3` `Responsive Design`
+Security & Ops	`Malware Analysis` `Linux` `Git`
+Core Foundations	`OOPs` `OS` `DBMS` `Computer Networks`
+---
+🏆 Professional Credentials & Validations
+Cisco Cybersecurity: Specialist in Network Attacks, Malware, and Defense Strategies.
+📊 System Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurumurthi032\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&title\_color=9aa5ce\&text\_color=7aa2f7\&icon\_color=7aa2f7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurumurthi032\&layout=compact\&theme=tokyonight\&hide\_border=true\&title\_color=9aa5ce\&text\_color=7aa2f7" width="45%" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggurumurthi032&show_icons=true&locale=en&layout=compact" alt="ggurumurthi032" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggurumurthi032&show_icons=true&locale=en" alt="i am kannadiga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=@gurumurthi_xkid&" alt="ggurumurthi032" /></p>
-
+---
+📬 Encryption & Contact
+<p align="center">
+  📧<b>Email:</b><a
+  href="mailto:ggurumurthi032@gmail.com">ggurumurthi032@gmail.com</a> <br>
+  📥<b>LinkedIn:</b><a href="https://www.linkedin.com/in/
+gurumurthi-r-69849a376
+\_source=share\&utm\_campaign=share\_via\&utm\_content=profile\&utm\_medium=android\_app">View Profile</a>
+  <br>
+  🧭<b> Location:</b> Karnataka, India
+</p>
